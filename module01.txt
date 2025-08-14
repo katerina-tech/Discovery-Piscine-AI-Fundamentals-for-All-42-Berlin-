@@ -1,0 +1,146 @@
+Ex00
+Job Title: Prompt Engineer
+
+Main Mission:
+Design, test, and optimize prompts for AI language models to maximize output quality and align results with business objectives.
+
+Required Skills:
+
+Technical: Proficiency with AI/ML concepts, prompt engineering, data analysis, scripting (Python preferred), familiarity with LLM APIs.
+
+Behavioral: Analytical thinking, creativity, attention to detail, strong communication, and collaboration skills.
+
+Qualifications:
+
+Bachelor’s or Master’s in Computer Science, Linguistics, or related field
+
+Experience with LLMs or NLP projects
+
+Certifications in AI/ML (preferred)
+
+Workplace:
+Hybrid (on-site and remote work options available)
+
+Employment Conditions:
+Permanent, full-time contract
+
+
+Ex01
+Company Name:
+DataMind Strategies
+
+Field of Activity:
+Expert consulting in AI strategy and data-driven solutions for businesses.
+
+Prompt Used:
+Generate five creative slogan proposals for a fictitious company named "DataMind Strategies," which specializes in AI strategy and data consulting for businesses.
+
+AI-Generated Slogans:
+
+Intelligence Unlocked, Strategy Unleashed
+Guiding Your Data to Drive Success
+Where AI Meets Business Vision
+Transforming Data into Strategic Advantage
+Empowering Growth Through Smart Insights
+
+
+Ex02
+Rewrite the following motivation letter in high-level, professional language suitable for a job application:
+
+Ex03
+Prompt Used:
+Translate the following text from English to French, ensuring the translation is accurate, uses professional language, and preserves the nuances and key points related to AI ethics and bias in CV selection:
+Translation in French:
+Les systèmes d’intelligence artificielle (IA) sont de plus en plus utilisés dans le recrutement, en particulier pour la présélection des CV. Cependant, malgré leur apparence de neutralité, ces technologies peuvent reproduire et même renforcer les biais humains. L’une des principales préoccupations concernant l’utilisation de l’IA dans le tri des CV réside dans sa capacité à perpétuer des discriminations fondées sur des caractéristiques telles que l’âge, le genre ou l’origine ethnique.
+Par exemple, une IA entraînée sur des données historiques pourrait apprendre à favoriser les candidats blancs de plus de 50 ans si, par le passé, ce groupe était surreprésenté dans les postes à pourvoir. L’algorithme, basé sur ces données, pourrait conclure que ce profil est le plus susceptible de réussir, même si cela ne fait que refléter des préjugés et des pratiques discriminatoires dans le processus de recrutement. Ce biais peut se manifester de manière subtile, par exemple en accordant une importance excessive à certaines expériences ou formations statistiquement plus courantes chez les personnes de ce groupe.
+De même, pour des postes perçus comme traditionnellement féminins, tels que les emplois d’infirmière, une IA pourrait privilégier les CV de femmes. Si les données historiques montrent que la majorité des personnes occupant ces postes étaient des femmes, l’algorithme pourrait établir une association entre le genre féminin et la réussite dans ce type de rôle, excluant potentiellement des hommes qualifiés.
+Ces biais ne sont pas intentionnels, mais ils sont inhérents au fonctionnement des IA qui s’appuient sur des données passées. Si les données d’entraînement reflètent des inégalités ou des stéréotypes, les décisions de l’algorithme seront biaisées. Il est donc crucial d’utiliser des données diversifiées et de mettre en place des mécanismes de correction des biais pour éviter que l’IA ne reproduise des schémas discriminatoires. Les entreprises doivent également faire preuve de vigilance en évaluant régulièrement les algorithmes utilisés dans leurs processus de recrutement afin de s’assurer que ces outils contribuent à une plus grande équité, plutôt qu’à la perpétuation des inégalités existantes.
+En résumé, l’utilisation des IA dans la sélection des CV comporte des risques de biais liés à l’âge, au genre et à l’origine ethnique. Il est essentiel de prendre des mesures pour que ces outils ne deviennent pas des amplificateurs d’injustices, mais plutôt des leviers pour promouvoir l’inclusion et la diversité.
+
+Ex04
+Prompt to correct the email and eliminate any mistakes:
+Please correct the following email by fixing spelling errors, simplifying overly complex grammar, and making it clear and easy to read, while maintaining a professional tone:
+[Insert original email text here]
+
+Prompt to rewrite the email in a more formal and refined style:
+Rewrite the following email in a more formal and polished style suitable for professional customer service communication:
+[Insert original email text here]
+
+Ex05
+Prompt Used:
+Using the Wikipedia article on deep learning as your main reference, generate the text content for a maximum of five slides for a popular science conference. Each slide should cover a key aspect of deep learning, use clear and accessible language, and be suitable for a general audience.
+
+AI-Generated Slide Content:
+
+Slide 1: What Is Deep Learning?
+Deep learning is a branch of machine learning that uses multilayered neural networks to process data and learn complex patterns. Inspired by the structure of the human brain, these networks can perform tasks like image recognition, language translation, and more.
+
+Slide 2: How Do Deep Neural Networks Work?
+Deep neural networks are made up of layers of artificial neurons. Each layer transforms input data into more abstract representations. For example, in image recognition, early layers detect edges, while deeper layers recognize shapes and objects.
+
+Slide 3: Key Architectures in Deep Learning
+Popular deep learning models include:
+
+Convolutional Neural Networks (CNNs) for images
+
+Recurrent Neural Networks (RNNs) for sequences
+
+Transformers for language tasks
+These architectures have revolutionized fields like computer vision and natural language processing.
+
+Slide 4: Why Is Deep Learning Powerful?
+Unlike traditional methods that require hand-crafted features, deep learning models automatically learn the best features from raw data. This allows them to achieve high performance on complex tasks, sometimes surpassing human experts.
+
+Slide 5: Real-World Applications
+Deep learning is used in:
+
+Speech recognition (virtual assistants)
+
+Medical image analysis (disease detection)
+
+Self-driving cars (object detection)
+
+Climate science and more
+Its impact continues to grow across industries.
+
+Ex06
+FUTURE SCENARIO: LIFE ON EARTH IN 50–100 YEARS
+
+1. Demographics and Society
+Global population growth has stabilized, with most regions experiencing aging societies and urbanization. Mega-cities dominate, and rural areas are increasingly automated. Social structures have adapted to longer lifespans and multicultural, interconnected communities.
+
+2. Climate and Environment
+Climate change has dramatically reshaped the planet. Despite late but intense mitigation efforts, many regions are hotter and drier, with some areas rendered uninhabitable due to extreme heat and sea level rise. Large-scale geoengineering and climate adaptation projects are common, but biodiversity loss remains a major challenge.
+
+3. Energy and Resources
+Fusion and advanced solar power provide cheap, abundant, and clean energy. Fossil fuels are nearly obsolete. Resource extraction is highly efficient, with closed-loop recycling and synthetic alternatives for most materials. Water scarcity is managed through desalination and atmospheric harvesting.
+
+4. Food and Agriculture
+Traditional agriculture has declined in favor of vertical farms, lab-grown proteins, and precision agriculture. Food security is generally high, though regional disparities persist due to climate impacts and political instability.
+
+5. Technology and Artificial Intelligence
+AI and robotics are deeply integrated into daily life, managing infrastructure, healthcare, education, and personal assistants. Most people use some form of cognitive or physical augmentation. AI ethics, transparency, and human oversight remain central societal debates.
+
+6. Economy and Work
+Automation has transformed the labor market. Many jobs are creative, strategic, or care-based, while routine work is automated. Universal basic income or similar social safety nets are widespread, supporting a shift toward lifelong learning and flexible careers.
+
+7. Health and Medicine
+Medical advances, including gene editing and nanotechnology, have nearly eliminated many diseases and extended healthy lifespans. Personalized medicine is the norm, and mental health receives as much attention as physical health.
+
+8. Urban Life and Infrastructure
+Cities are smart, green, and highly connected. Autonomous transport, energy-efficient buildings, and dynamic public spaces are standard. Urban planning prioritizes resilience to climate shocks and inclusivity for all residents.
+
+9. Governance and Global Cooperation
+Supranational organizations coordinate responses to global challenges like pandemics, climate change, and migration. Local and regional governments experiment with digital democracy and participatory governance, though geopolitical tensions persist.
+
+10. Space and Exploration
+Permanent bases exist on the Moon and Mars, with asteroid mining supplementing Earth’s resources. Space tourism is accessible to the affluent, and international collaboration in space research is routine.
+
+11. Culture and Identity
+Cultural exchange is constant, with digital platforms enabling global communities. Identity is increasingly fluid, shaped by virtual experiences and cross-cultural interactions. Art, entertainment, and spirituality blend physical and digital realities.
+
+This scenario synthesizes current trends and expert projections, drawing on technological, economic, social, and environmental reference points
+
+Ex07
+Module 01 - complete.
+

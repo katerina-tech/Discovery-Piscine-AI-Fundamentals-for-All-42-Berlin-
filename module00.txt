@@ -1,0 +1,36 @@
+Ex00:
+Hello World!
+
+Ex01:
+I will use Perplexity AI (https://www.perplexity.ai/) now. Normally, I use ChatGPT, but I’m currently having some trouble accessing it.
+
+Ex02:
+A large language model (LLM) is a deep learning system based on the transformer architecture. It processes input text by:
+
+1.Tokenizing the input into smaller units.
+
+2.Embedding these tokens as high-dimensional vectors that capture semantic meaning.
+
+3.Passing these vectors through multiple transformer layers that use self-attention to model relationships and context within the text.
+
+4.Generating output by predicting the most likely next token, enabling tasks like text generation, summarization, or question answering.
+
+LLMs are pretrained on massive datasets and can be fine-tuned for specific tasks. Their transformer-based design allows for efficient parallel processing and contextual understanding of language
+
+Ex03:
+The history of artificial intelligence (AI) began with early philosophical and mathematical studies of logic and computation, leading to the formal founding of AI research in 1956. Initial optimism in the 1960s and 1970s was followed by setbacks and funding cuts, resulting in periods known as "AI winters." The field revived in the 1980s with expert systems and later shifted towards sub-symbolic methods like neural networks, culminating in the deep learning revolution of the 2010s. Major advances, such as AlphaGo and GPT-3, spurred massive investment and interest in AI, making it a central focus of research, industry, and ethical debate by the 2020s.
+
+Ex04:
+Summary of Email Thread:
+
+Marie Dupuis (DPO) raised concerns about the risk of sharing sensitive or personal data with external language models (LLMs), emphasizing GDPR obligations and the need for clear guidelines and security measures. Jean Lefebvre (CIO) supported her concerns, suggesting a filtering system, team training, and an audit of past LLM queries. Claire Martin (Legal) highlighted potential legal liabilities and proposed drafting a strict internal usage charter for LLMs. Thomas Durand (Digital Projects) agreed, recommending technical restrictions to limit LLM access to sensitive data and offering to collaborate on solutions. Nathalie Dupont (CEO) endorsed the proposals, urging the team to meet soon to formalize actions and ensure all employees are informed.
+
+Ex05:
+Write a short introductory paragraph (maximum 500 characters) about SAP, including its core business, global presence, and reputation in the enterprise software industry.
+
+Let me know if you want it tailored further!
+
+Ex06:
+Draft a professional thank you and summary email following a client meeting with BuzzAI on Friday, Nov. 15. Mention that Jean (technical director) attended, summarize the product presentation on analyzing product buzz, note the plan to schedule a demo with the tech teams, and reference the discussion of a budget evaluation for two months of BuzzAI surveillance.
+
+

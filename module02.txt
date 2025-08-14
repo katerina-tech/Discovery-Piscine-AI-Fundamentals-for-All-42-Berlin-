@@ -1,0 +1,33 @@
+Ex00
+https://deepai.org/machine-learning-model/text2img
+Rubik’s Cube modern technical
+
+Ex01
+saved to downloades
+
+Ex02
+
+Prompts for picture creation
+Слайд 1: What Is Deep Learning?
+
+Highly detailed digital illustration of a multilayered neural network resembling a human brain, with interconnected glowing nodes and synapse-like lines. Futuristic style, blue and violet neon colors on a dark high-tech background. Subtle circuit motifs, a sense of depth and dimensionality.
+
+Слайд 2: How Do Deep Neural Networks Work?
+
+Infographic-style visualization showing an abstract neural network made of several layers. The first layer highlights simple features (edges), subsequent layers gradually highlight shapes, and the final layers visualize complex objects. Use clear arrows and layer labels, bright and clean color palette, modern flat design.
+
+Слайд 3: Key Architectures in Deep Learning
+
+Side-by-side comparison diagram: A convolutional neural network (CNN) with grid and filters for images; a recurrent neural network (RNN) depicted as a loop for sequences; and a Transformer model with attention heads for language tasks. Use annotated arrows, minimalist vector style, cohesive colors.
+
+Слайд 4: Why Is Deep Learning Powerful?
+
+Artistic metaphor showing an AI brain autonomously extracting patterns from raw, chaotic data streams (numbers, images, symbols), transforming them into organized insights. Emphasize contrast between unstructured input and clean, highlighted features. Cool colors, dynamic composition.
+
+Слайд 5: Real-World Applications
+
+Montage illustration with well-separated vignettes: a virtual assistant speaking (speech recognition), a doctor examining a medical scan (medical image analysis), a self-driving car identifying pedestrians (object detection), and climate data visualizations (science). Professional, realistic, yet stylized, unified by a smooth tech-inspired color scheme.
+
+https://docs.google.com/presentation/d/1j1p94pLZcRpxTg_psGJuqyv681m-OfpIkJmh86OfYtQ/edit?usp=sharing
+
+Ex03

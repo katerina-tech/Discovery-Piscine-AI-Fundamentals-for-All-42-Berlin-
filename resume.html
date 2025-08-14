@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ekaterina Kuznetsova | Data Engineering Portfolio</title>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Lora:wght@600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --sap-midnight: #003366;
+      --sap-cyan: #00b9f2;
+      --sap-lightblue: #4fc4ff;
+      --white: #ffffff;
+      --text-muted: #adc6e9;
+    }
+
+    body {
+      margin: 0;
+      background-color: var(--sap-midnight);
+      color: var(--white);
+      font-family: 'Inter', sans-serif;
+      line-height: 1.6;
+    }
+
+    a {
+      color: var(--sap-cyan);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    header, section {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 48px 24px;
+    }
+
+    header {
+      text-align: center;
+    }
+
+    header h1 {
+      font-family: 'Lora', serif;
+      font-size: 3rem;
+      margin-bottom: 0.4rem;
+      color: var(--white);
+    }
+
+    .tagline {
+      font-size: 1.3rem;
+      color: var(--sap-lightblue);
+      margin-bottom: 1rem;
+    }
+
+    .description {
+      color: var(--text-muted);
+      font-size: 1.05rem;
+      max-width: 600px;
+      margin: 0 auto 2rem;
+    }
+
+    .btn-group {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 16px;
+      margin-top: 24px;
+    }
+
+    .btn {
+      background-color: var(--sap-cyan);
+      color: var(--white);
+      padding: 12px 28px;
+      border: none;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 1rem;
+      text-decoration: none;
+      transition: background-color 0.25s;
+    }
+
+    .btn:hover {
+      background-color: var(--sap-lightblue);
+    }
+
+    h2 {
+      font-size: 1.6rem;
+      color: var(--sap-cyan);
+      margin-top: 0;
+      margin-bottom: 1rem;
+      border-left: 4px solid var(--sap-cyan);
+      padding-left: 12px;
+    }
+
+    ul {
+      padding-left: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    li {
+      margin-bottom: 1rem;
+    }
+
+    .item-title {
+      color: var(--sap-lightblue);
+      font-weight: 600;
+    }
+
+    @media (max-width: 640px) {
+      header h1 {
+        font-size: 2rem;
+      }
+
+      .tagline {
+        font-size: 1.1rem;
+      }
+
+      .btn-group {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .btn {
+        width: 100%;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Hero Section -->
+  <header>
+    <h1>Ekaterina Kuznetsova</h1>
+    <p class="tagline">Data Engineer & Analyst • Data Innovation / IT Strategy Consulting</p>
+    <p class="description">
+      I help organizations transform raw data into actionable insight using cloud data platforms, scalable pipelines, and visual storytelling. Passionate about smart architectures, real-time insights and human-centered design.
+    </p>
+    <div class="btn-group">
+      <a href="Ekaterina_Kuznetsova_CV.pdf" class="btn" download>Download CV</a>
+      <a href="mailto:eka.kuzne@gmail.com" class="btn">Contact</a>
+    </div>
+  </header>
+
+  <!-- Experience -->
+  <section>
+    <h2>Experience</h2>
+    <ul>
+      <li>
+        <span class="item-title">IT4IPM (2023–Present)</span><br/>
+        DevOps/Data Engineer: Migrated Microsoft SQL systems to Google Cloud Platform using Databricks. Built scalable ETL pipelines, supported analytics operations for GEMA client.
+      </li>
+      <li>
+        <span class="item-title">KPMG Germany (2022)</span><br/>
+        Data Analytics Intern: Built dashboards in Power BI & Tableau; delivered executive reporting and business insight for clients.
+      </li>
+      <li>
+        <span class="item-title">Hasso-Plattner Institute (2020–2021)</span><br/>
+        Student Assistant: Performed geospatial data analysis and prototyping of IoT-based data pipelines used in research teams.
+      </li>
+      <li>
+        <span class="item-title">Cross Border Talents</span><br/>
+        International Tech Recruiter: Matched global tech candidates with data and cloud consulting positions across the EU.
+      </li>
+    </ul>
+  </section>
+
+  <!-- Education -->
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li>
+        <span class="item-title">BSc, IT Systems Engineering</span> — Hasso-Plattner Institute (Germany)<br />
+      Focus: Distributed Systems, Cloud Computing, Data Architecture
+    </li>
+    <li>
+      <span class="item-title">MSc, Information and Media Technology</span> — BTU Cottbus–Senftenberg (Germany)<br />
+      Focus: UX Engineering, Signal Processing, Digital Media Systems
+    </li>
+    <li>
+      <span class="item-title">Dipl.-Ing., Electrical Engineering</span> — Samara State Aerospace University (Russia)<br />
+      Final thesis in real-time control systems and embedded electronics
+      </li>
+    </ul>
+  </section>
+
+  <!-- Skills -->
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li><span class="item-title">Languages:</span> Python, SQL, R, Java</li>
+      <li><span class="item-title">Cloud & Tools:</span> Google Cloud, Databricks, BigQuery, Terraform, Power BI, Tableau, Qlik Sense</li>
+      <li><span class="item-title">Concepts:</span> ETL/ELT, Data Warehousing, Cloud Migration, KPI Design, Agile Reporting, Dashboarding, Design Thinking</li>
+    </ul>
+  </section>
+
+  <!-- Certifications -->
+  <section>
+    <h2>Certifications</h2>
+    <ul>
+      <li>Data Engineer Career Track – DataCamp</li>
+      <li>Data Analytics Nanodegree – Udacity</li>
+      <li>Terraform Fundamentals</li>
+      <li>SAP/R3 Certificate</li>
+      <li>Certified Junior Project Manager (IAPM)</li>
+      <li>Six Sigma Yellow Belt – BTU Cottbus</li>
+    </ul>
+  </section>
+
+  <!-- Footer / Contact -->
+  <section>
+    <h2>Links</h2>
+    <ul>
+      <li><a href="mailto:eka.kuzne@gmail.com">eka.kuzne@gmail.com</a></li>
+      <li><a href="https://github.com/katerina-tech" target="_blank">GitHub: katerina-tech</a></li>
+      <li><a href="https://www.linkedin.com/in/ekaterina-kuznetsova-now" target="_blank">LinkedIn: Ekaterina Kuznetsova</a></li>
+      <li><a href="https://ekaterina-site-link.com" target="_blank">Portfolio Website</a></li>
+    </ul>
+  </section>
+
+</body>
+</html>
+
